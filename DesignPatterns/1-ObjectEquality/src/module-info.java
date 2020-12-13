@@ -1,0 +1,2 @@
+module ie.gmit.dip {
+}
